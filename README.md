@@ -301,11 +301,7 @@ See `report/references.bib` for complete bibliography.
 
 ---
 
-## 👤 Attribution
 
-**Project:** CSE425 - Generative AI for Music
-**Date:** April 2026
-**Campus:** University Campus
 
 ---
 
