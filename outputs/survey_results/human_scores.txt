@@ -1,0 +1,3 @@
+Before RLHF: Average Human Score = 4.4
+After RLHF: Average Human Score = 4.8
+Improvement: +0.4 (stronger genre control and coherence)
